@@ -62,9 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nithish-amstrong&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-amstrong&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish-amstrong&layout=compact&theme=tokyonight" alt="Top Languages" />
