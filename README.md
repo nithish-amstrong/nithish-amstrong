@@ -68,14 +68,6 @@
 </p>
 
 ---
-
-### 🔥 Recent Projects
-- **ServiceNow ITSM & SAM Pro Integrations** - Custom solutions for IT Service Management  
-- **Sri Anand Residency Admin Panel** - A custom-built admin panel for efficient management  
-- **Matrimony Website** - A full-fledged front-end & back-end matrimony platform  
-
----
-
 ### 💡 Fun Fact
 💬 **I enjoy discussing tech innovations, automation, and AI-driven solutions. Let’s connect!** 🚀
 
