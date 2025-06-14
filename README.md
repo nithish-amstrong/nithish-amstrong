@@ -1,7 +1,3 @@
-Thanks for the clarification! Here's your **cleaned-up GitHub profile README**, **focused only on your ServiceNow expertise**—concise, professional, and tailored to your Senior ServiceNow Developer profile:
-
----
-
 <h1 align="center">Hi 👋, I'm Nithish Amstrong</h1>
 <h3 align="center">Senior ServiceNow Developer | ITSM, ITAM, SAM, CMDB, HRSD, FSM, CSM, Integrations | 4+ Years</h3>
 
@@ -81,7 +77,3 @@ I love transforming manual IT processes into **automated, intelligent workflows*
 ---
 
 🌟 *"Build once, deliver everywhere — that’s the ServiceNow advantage."*
-
----
-
-Let me know if you'd like this exported as a Markdown file, or want help pushing it to your GitHub profile.
