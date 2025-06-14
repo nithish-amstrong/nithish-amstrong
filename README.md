@@ -1,5 +1,9 @@
+Thanks for the clarification! Here's your **cleaned-up GitHub profile README**, **focused only on your ServiceNow expertise**—concise, professional, and tailored to your Senior ServiceNow Developer profile:
+
+---
+
 <h1 align="center">Hi 👋, I'm Nithish Amstrong</h1>
-<h3 align="center">Software Engineer | Web & Mobile App Developer | ServiceNow Expert</h3>
+<h3 align="center">Senior ServiceNow Developer | ITSM, ITAM, SAM, CMDB, HRSD, FSM, CSM, Integrations | 4+ Years</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nithish-amstrong&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,69 +12,76 @@
 ---
 
 ### 🚀 About Me
-- 💻 **Software Engineer** with expertise in **Web, Mobile, and Automation Development**  
-- 🌱 Currently Learning **Flutter with MVVM Architecture**  
-- 🛠️ Specialized in **ServiceNow ITSM, SAM Pro & Integrations**  
-- 💡 Skilled in **React, Angular, TypeScript, React Native, Flutter, Selenium, Cucumber, Core Java**  
-- 📫 Reach Me: **[nithishamstrong2@gmail.com](mailto:nithishamstrong2@gmail.com)** | **[Portfolio](https://nithish-amstrong.web.app/)**  
-- ⚡ Passionate about **AI, Automation, and IT Service Management**  
+
+I'm a **results-driven Senior ServiceNow Developer** with over **4+ years of experience** delivering enterprise-grade solutions across the **ServiceNow ecosystem**. I specialize in end-to-end design, development, and implementation of scalable workflows that solve real business problems.
 
 ---
 
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/nithish-amstrong" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="https://stackoverflow.com/users/7702096/nithish-amstrong" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40"/>
-  </a>
-  <a href="https://dev.to/nithishamstrong" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="40" width="40"/>
-  </a>
-</p>
+### 💼 Core Expertise
+
+* **ITSM**: Incident, Problem, Change, Request, Catalog, SLAs, Notifications, Flow Designer
+* **CMDB**: Designing and maintaining scalable CI structures, service mapping, dependency views
+* **ITAM / SAM / HAM**: Full lifecycle asset management, compliance enforcement, cost optimization
+* **HRSD**: Case and lifecycle events, onboarding/offboarding, and identity system integrations
+* **CSM / FSM**: Advanced customer and field service experiences with dynamic dispatching
+* **ITBM / SOW**: Strategic Portfolio Management, PPM, resource planning, SOW solutions
+* **Now Mobile / Agent Mobile**: Delivering seamless mobile-first experiences
 
 ---
 
-### 🛠️ Technologies & Tools
-#### **🔹 ServiceNow | ITSM | SAM Pro | Integrations**
-<p align="left">
-  <img src="https://www.honeycomb.io/wp-content/uploads/2023/03/integration_servicenow_featured_image.svg" alt="ServiceNow" width="150" height="80"/>
-</p>
+### 🔗 Integration Experience
 
-#### **🔹 Web & Mobile Development**
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://uploads-ssl.webflow.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" alt="Flutter" width="40" height="40"/> </a>
-</p>
+* Integrated with platforms like:
+  **MuleSoft**, **Salesforce**, **Jamf**, **Microsoft Intune**, **SolarWinds**, **Cisco Meraki**, **Rapid7**, **Nuvolo**
 
-#### **🔹 Automation & Backend**
-<p align="left">
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-</p>
+* Skilled in:
+  **REST & SOAP APIs**, **MID Servers**, **Scripted REST APIs**, **IntegrationHub**
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithish-amstrong&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+### 📊 Dashboards, Reports & Performance Analytics
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish-amstrong&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+* Real-time dashboards for executives & IT ops
+* SLA/KPI tracking aligned with business goals
+* Performance Analytics configuration and storyboards
 
 ---
+
+### ⚙️ Platform Capabilities
+
+* **Flow Designer**, **Scripted Workflows**, **UI Policies**, **Business Rules**, **ACLs**
+* **Client/Server Scripts**, **Transform Maps**, **Scheduled Jobs**, **UI Actions**
+* **Employee Center Pro**, **Service Catalog customizations**, **Virtual Agent integration**
+* Legacy Workflow → Flow Designer migration experience
+
+---
+
+### 🧰 Tools & Methodologies
+
+* Agile/Scrum delivery model, DevOps pipelines
+* Git-based version control, update sets, scoped apps
+* Strong understanding of Now Platform architecture & data model
+* Familiar with ATF (Automated Test Framework) & Instance Security Best Practices
+
+---
+
+### 📫 Let's Connect
+
+* 📧 [nithishamstrong2@gmail.com](mailto:nithishamstrong2@gmail.com)
+* 🌐 [Portfolio](https://nithish-amstrong.web.app/)
+* 💼 [LinkedIn](https://linkedin.com/in/nithish-amstrong)
+* 💬 [Stack Overflow](https://stackoverflow.com/users/7702096/nithish-amstrong)
+
+---
+
 ### 💡 Fun Fact
-💬 **I enjoy discussing tech innovations, automation, and AI-driven solutions. Let’s connect!** 🚀
+
+I love transforming manual IT processes into **automated, intelligent workflows** using the **power of the Now Platform**.
 
 ---
 
-🌟 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+🌟 *"Build once, deliver everywhere — that’s the ServiceNow advantage."*
+
+---
+
+Let me know if you'd like this exported as a Markdown file, or want help pushing it to your GitHub profile.
